@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\bin\Debug\NewLongInt.exe.config
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\bin\Debug\NewLongInt.exe
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\bin\Debug\NewLongInt.pdb
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\obj\Debug\NewLongInt.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\obj\Debug\NewLongInt.exe
+C:\Users\mort8\source\repos\NewLongInt\NewLongInt\obj\Debug\NewLongInt.pdb
